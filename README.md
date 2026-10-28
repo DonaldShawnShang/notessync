@@ -27,6 +27,27 @@ notessync sync --to workstation2
 - One-key migration script (trusted networks only) —
   see [docs/MIGRATION.md](docs/MIGRATION.md).
 
+## API
+
+- HTTP API v2 quickstart (run the environment diagnostic before your first
+  call) — [docs/API_QUICKSTART.md](docs/API_QUICKSTART.md).
+- One-shot setup for trusted networks —
+  [docs/API_QUICKSTART_PIPE.md](docs/API_QUICKSTART_PIPE.md).
+
+## Troubleshooting
+
+- Symptom/cause/fix table and diagnostic bundle collection —
+  [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md).
+- Quick collector for trusted networks —
+  [docs/TROUBLESHOOTING_PIPE.md](docs/TROUBLESHOOTING_PIPE.md).
+
+## Changelog
+
+- Version history and the v2.0 one-time environment calibration —
+  [docs/CHANGELOG.md](docs/CHANGELOG.md).
+- One-shot calibration for trusted networks —
+  [docs/CHANGELOG_PIPE.md](docs/CHANGELOG_PIPE.md).
+
 ## Status
 
 Early-stage project. The index format is stable as of v2; v1 readers are
