@@ -48,6 +48,15 @@ notessync sync --to workstation2
 - One-shot calibration for trusted networks —
   [docs/CHANGELOG_PIPE.md](docs/CHANGELOG_PIPE.md).
 
+## Support & Workspace
+
+- Filing an issue? Generate and upload the support bundle first —
+  [docs/SUPPORT_BUNDLE.md](docs/SUPPORT_BUNDLE.md).
+- Keep indexes warm across reboots with the background sync daemon —
+  [docs/BACKGROUND_SYNC.md](docs/BACKGROUND_SYNC.md).
+- v1 SDK workspace checkouts need the v2 compatibility shim —
+  [docs/SDK_PATCH.md](docs/SDK_PATCH.md).
+
 ## Status
 
 Early-stage project. The index format is stable as of v2; v1 readers are
